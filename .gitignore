@@ -51,3 +51,4 @@ build*/
 *.log
 CMakeCache.txt
 CMakeFiles/*
+vcpkg_installed/
