@@ -21,7 +21,8 @@
     "7zip",
     {
       "name": "gettext",
-      "features": ["tools"]
+      "features": ["tools"],
+      "host": true
     }
   ]
 }

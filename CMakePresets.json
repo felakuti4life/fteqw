@@ -59,7 +59,7 @@
         "VCPKG_TARGET_TRIPLET": "x64-windows"
       },
       "environment": {
-        "PATH": "${sourceDir}/../vcpkg/installed/x64-windows/tools/gettext/bin;$penv{PATH}"
+        "PATH": "${sourceDir}/vcpkg_installed/x64-windows/tools/gettext/bin;$penv{PATH}"
       }
     }
   ],
